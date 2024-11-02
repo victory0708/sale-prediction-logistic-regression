@@ -24,7 +24,6 @@ This project aims to predict sales from existing customers using logistic regres
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib (for visualization)
 - Jupyter Notebook
 
 ## Data Description
