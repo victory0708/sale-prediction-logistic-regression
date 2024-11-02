@@ -34,7 +34,7 @@ This project aims to predict sales from existing customers using logistic regres
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sale-prediction.git
+   git clone https://github.com/victory0708/sale-prediction-logistic-regression
    ```
 2. Navigate into the project directory:
    ```bash
